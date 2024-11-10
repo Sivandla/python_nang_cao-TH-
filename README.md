@@ -15,6 +15,7 @@
     
   + Bước 3:
     Nhập tên database muốn dùng và chọn kết nối
+    
     <img width="160" alt="ket_noi_database" src="https://github.com/user-attachments/assets/a3b9a4ba-3df9-4617-a340-f140dbced662">
     
   + Bước 4:
